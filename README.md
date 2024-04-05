@@ -9,13 +9,13 @@ This employee payroll tracker was created for companies to easily access and tra
 Front-End technologies such as HTML, CSS, and JavaScript
 
 ## Website
-
+https://jewelsunny1.github.io/employee-payroll-tracker/
 
 
 ## Screenshots
 Finished webpage should look like this:
 
-![alt= Webpage Preview](.assets/payroll-tracker.png)
+![alt= Webpage Preview](./Assets/payroll-tracker.png)
 
 ## Credits
 How to pick random elements from an array - javatpoint. www.javatpoint.com. (n.d.). https://www.javatpoint.com/how-to-pick-random-elements-from-an-array 
